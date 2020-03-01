@@ -76,7 +76,7 @@ ul, li {
 }
 @media screen and (max-width: 505px) {
 	body {
-		font-size: 80%;
+		font-size: 87.5%;
 	}
 	img {
 		display: none;
